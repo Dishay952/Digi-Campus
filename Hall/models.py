@@ -16,4 +16,4 @@ class hallPresence(models.Model):
     last_name=models.CharField(max_length=40,null=True)
     roll_no=models.IntegerField(null=True)
     mobile_no=models.BigIntegerField(null=True)
-      
+#  

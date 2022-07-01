@@ -16,7 +16,7 @@ from django.http import HttpResponse, HttpResponseNotFound
 from Hall.models import hallPresence
 
 from Login.models import Profile 
-# Create your views here.
+## Create your views here.
 
 # def login_view(request,*args,**kwargs):
     # profiles = Profile.objects.all()

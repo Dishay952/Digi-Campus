@@ -2,6 +2,7 @@
 // Inserts shortcut buttons after all of the following:
 //     <input type="text" class="vDateField">
 //     <input type="text" class="vTimeField">
+//     <input type="text" class="vDateTimeField">
 'use strict';
 {
     const DateTimeShortcuts = {
