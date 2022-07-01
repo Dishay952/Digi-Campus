@@ -14,7 +14,7 @@ import pytz
 import datetime
 from django.contrib.auth.models import User
 from Login.models import Profile
-
+# 
 @login_required
 def entry_view(request,id):
     if(request.user.profile.is_student==False):

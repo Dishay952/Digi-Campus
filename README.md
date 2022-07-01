@@ -13,5 +13,5 @@
 These can be installed by using the appropriate pip commands.
 pip install -r requirements.txt
 ## How to use:
->Login to [web app](https://digi-campus.herokuapp.com/#)
+>Login to [web app](https://digi-campus.herokuapp.com/#)<br>
 >Don't worry about the password, its in safe hands ;)
